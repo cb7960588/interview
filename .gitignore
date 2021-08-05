@@ -1,0 +1,7 @@
+.idea/
+.idea/*
+*/.DS_Store
+.DS_Store
+target/*
+target
+bigdata.iml
